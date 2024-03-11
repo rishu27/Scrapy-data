@@ -30,7 +30,7 @@ Go to spiders folder and create a taskspider.py file
 To scrap JOBS details
 
 - scrapy crawl taskspider
-- example : C:\Users\HP\Downloads\Scrapy data> scrapy crawl taskspider  
+- example : C:\Users\HP\Downloads\Scrapy data\scrappingtask\scrappingtask> scrapy crawl taskspider  
 
 To saved parsing respone on Json file
 
