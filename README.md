@@ -38,6 +38,7 @@ To saved parsing respone on Json file
 
 --------*Sample Data*------------
    
-    
+![Screenshot 2024-03-11 140907](https://github.com/rishu27/Scrapy-data/assets/95354739/fab32333-adf3-476d-b6f5-7f18df629787)
+
 
 Thank you. 
