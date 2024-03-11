@@ -41,4 +41,8 @@ To saved parsing respone on Json file
 ![Screenshot 2024-03-11 140907](https://github.com/rishu27/Scrapy-data/assets/95354739/fab32333-adf3-476d-b6f5-7f18df629787)
 
 
+JSEON file :
+![image](https://github.com/rishu27/Scrapy-data/assets/95354739/0493c650-058d-43cf-b9bd-e361409d2756)
+
+
 Thank you. 
