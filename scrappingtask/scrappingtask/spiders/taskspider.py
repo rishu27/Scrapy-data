@@ -4,7 +4,7 @@ import scrapy
 class TaskspiderSpider(scrapy.Spider):
     name = "taskspider"
     allowed_domains = ["www.reed.co.uk"]
-    start_urls = [f"https://www.reed.co.uk/jobs/data-analyst-jobs?pageno={i}" for i in range(1)]
+    start_urls = [f"https://www.reed.co.uk/jobs/data-analyst-jobs?pageno={i}" for i in range(93)]
 
     def parse(self, response):
         detail=response.css('div.row')
