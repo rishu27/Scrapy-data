@@ -36,5 +36,8 @@ To saved parsing respone on Json file
 
 - scrapy crawl taskspider -o taskdata.json
 
+--------*Sample Data*------------
+   
+    
 
 Thank you. 
